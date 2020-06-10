@@ -22,6 +22,3 @@
     -ms-touch-action: auto;
         touch-action: auto;
 }
-html {
-    scroll-behavior: smooth;
-  }
