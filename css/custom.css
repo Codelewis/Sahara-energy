@@ -1,0 +1,19 @@
+.logo-responsive{
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.footer{
+    text-align: center;
+}
+
+.model-image img{
+    height: 300px;
+    width: 350px;
+    object-fit: cover;
+    padding-bottom: 20px;
+
+}
