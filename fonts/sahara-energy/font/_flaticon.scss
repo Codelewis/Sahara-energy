@@ -1,0 +1,62 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 08/06/2020 10:28
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-valve:before { content: "\f100"; }
+.flaticon-oil-tank:before { content: "\f101"; }
+.flaticon-oil-barrel:before { content: "\f102"; }
+.flaticon-jet:before { content: "\f103"; }
+.flaticon-gas-cylinder:before { content: "\f104"; }
+.flaticon-fuel:before { content: "\f105"; }
+.flaticon-null:before { content: "\f106"; }
+.flaticon-oiler:before { content: "\f107"; }
+.flaticon-worker:before { content: "\f108"; }
+.flaticon-remote:before { content: "\f109"; }
+.flaticon-team:before { content: "\f10a"; }
+    
+    $font-Flaticon-valve: "\f100";
+    $font-Flaticon-oil-tank: "\f101";
+    $font-Flaticon-oil-barrel: "\f102";
+    $font-Flaticon-jet: "\f103";
+    $font-Flaticon-gas-cylinder: "\f104";
+    $font-Flaticon-fuel: "\f105";
+    $font-Flaticon-null: "\f106";
+    $font-Flaticon-oiler: "\f107";
+    $font-Flaticon-worker: "\f108";
+    $font-Flaticon-remote: "\f109";
+    $font-Flaticon-team: "\f10a";
