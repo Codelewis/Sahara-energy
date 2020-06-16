@@ -55,7 +55,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #18191a;
   text-align: left;
   background-color: #fff; }
 
@@ -7985,7 +7985,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: rgba(0, 0, 0, 0.5); }
+  color: rgba(0, 0, 0, 0.808); }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8773,7 +8773,7 @@ h1, h2, h3, h4, h5,
     .services-2:nth-child(2) .icon:before {
       background: #fff !important; }
   .services-2:nth-child(3) {
-    background: black; }
+    background: #31658a ; }
     .services-2:nth-child(3) .icon:before {
       background: rgba(255, 255, 255, 0.1) !important; }
     .services-2:nth-child(3) .icon span {
@@ -8808,7 +8808,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .3;
-    background: #1683fb; }
+    background: #ffffff; }
 
 .staff {
   overflow: hidden;
@@ -9017,7 +9017,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 14px;
-  background: #141313;
+  background: #31658a;
   padding: 6em 0; }
   .ftco-footer .ftco-footer-widget {
     width: 100%;
