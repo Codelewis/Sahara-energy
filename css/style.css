@@ -8362,7 +8362,7 @@ h1, h2, h3, h4, h5,
         bottom: 0;
         right: 0;
         width: 100%;
-        background: #fff;
+        background: rgb(34, 34, 34);
         opacity: .4; }
         @media (min-width: 768px) {
           .owl-carousel.home-slider .slider-item .overlay {
@@ -8373,7 +8373,7 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
-          color: #000000;
+          color: #ffffff;
           font-weight: 700; }
         .owl-carousel.home-slider .slider-item .slider-text .text {
           position: relative; }
@@ -8385,14 +8385,14 @@ h1, h2, h3, h4, h5,
           text-transform: uppercase; }
           .owl-carousel.home-slider .slider-item .slider-text h1 span {
             display: block;
-            color: #1e4463; }
+            color: #fda729; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
               font-size: 30px; } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           font-size: 18px;
           font-weight: 400;
-          color: rgba(0, 0, 0, 0.8); }
+          color: rgba(255, 255, 255, 0.8); }
         .owl-carousel.home-slider .slider-item .slider-text p {
           font-size: 18px;
           line-height: 1.5;
